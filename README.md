@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @selecGH
 - 👀 I’m interested in Java and JavaScript worlds.
-- 🌱 I’m currently learning many related technologies such as Spring Boot, ReactJS or TypeScript
+- 🌱 I’m currently learning many Java and JavaScript related technologies such as Spring Boot, ReactJS or TypeScript
 - 💞️ I’m looking to collaborate on any related project!
 - 📫 How to reach me: email to selectionslc@gmail.com
 
